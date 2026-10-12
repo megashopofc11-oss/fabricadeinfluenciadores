@@ -1,0 +1,6 @@
+{
+  "name": "Fábrica de Influenciadores",
+  "description": "Aprenda a criar influenciadores com IA e produzir propagandas profissionais para empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
